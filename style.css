@@ -1,0 +1,21 @@
+body{
+text-align: center;
+
+}
+
+#app{ 
+background-color:aqua ;
+
+}
+h1{
+color:antiquewhite;
+font-size:50px;
+}
+#games{ 
+    background-color:aquamarine;
+    
+    }
+    #bot{ 
+        background-color:orangered;
+        
+        }
